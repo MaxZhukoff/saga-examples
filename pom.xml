@@ -9,4 +9,7 @@
     <name>saga-examples</name>
     <description>saga-examples</description>
     <packaging>pom</packaging>
+    <modules>
+        <module>default-saga-demo</module>
+    </modules>
 </project>
