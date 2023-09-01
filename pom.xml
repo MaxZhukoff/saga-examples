@@ -14,5 +14,6 @@
         <module>simple-saga-demo</module>
         <module>aggregation-saga-demo</module>
         <module>nested-saga-demo</module>
+        <module>saga-demo</module>
     </modules>
 </project>
